@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">ToDoList</string>
+    <string name="call">call</string>
+    <string name="add_mission_txt">Add mission</string>
+    <string name="deadline_txt">Deadline</string>
+    <string name="starttime">stratTime</string>
+    <string name="select_time_btn">Select Time</string>
+    <string name="time_selected_view">Time selected</string>
+    <string name="add_to_calender_txt">Add To calender</string>
+    <string name="done_checkboc">Done</string>
+    <string name="add_btn">Add to TODO-List</string>
+    <string name="set_alarm">Set Alarm</string>
+    <string name="add_alarm">Add Alarm</string>
+    <string name="add_task">Add Task</string>
+    <string name="phone_number_txt">Phone Number</string>
+    <string name="address_txt">Address</string>
+    <string name="addurl_txt">Add URL</string>
+    <string name="email_txt">Email</string>
+    <string name="content_txt">content</string>
+    <string name="name_txt">Name</string>
+    <string name="LastName">Last Name</string>
+    <string name="save_to_contact">Save to contact</string>
+    <string name="add_contact">Add contact</string>
+    <string name="delete_mission_from_to_list">Delete task</string>
+
+
+
+</resources>
